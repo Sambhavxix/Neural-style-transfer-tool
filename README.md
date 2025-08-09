@@ -10,11 +10,7 @@ DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
 
-Description: Here is a 500-word project description for your internship:
-
----
-
-**Project Title:** Neural Style Transfer Model for Artistic Image Transformation
+Description: Neural Style Transfer Model for Artistic Image Transformation
 
 **Project Overview:**  
 This project implements a Neural Style Transfer (NST) model using Python and PyTorch to apply the artistic style of one image (such as a famous painting) to the content of another image (such as a photograph). The result is a new image that preserves the content of the original photograph but is rendered in the style of the chosen artwork. This technique leverages deep learning and convolutional neural networks (CNNs) to separate and recombine the content and style of images, enabling creative and visually appealing transformations.
